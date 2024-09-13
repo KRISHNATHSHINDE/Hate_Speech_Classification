@@ -1,5 +1,14 @@
 # Hate_Speech_Classification
 
+## Project Workflows
+
+- constants
+- config_enity
+- artifact_enity
+- components
+- pipeline
+- app.py
+
 ## How to run
 
 ```bash
